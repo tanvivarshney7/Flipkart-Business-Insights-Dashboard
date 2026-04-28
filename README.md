@@ -32,3 +32,6 @@ Data Storytelling,
 Power BI Reporting,
 DAX Calculations,
 Business Intelligence.
+
+# About Me
+Aspiring Data Analyst with experience in operations analysis, SQL, Excel, and Power BI. Currently building business intelligence and analytics projects while transitioning into the data analytics field in Canada.
